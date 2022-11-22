@@ -38,5 +38,8 @@ I am 14 years old, and insanely addicted to Movies, Series, and Songs!
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5JjVy9EAxJL545dXUDVrjvRb7KN9ip6Mbx5PG74L3Xobl5BoG" height=200 width=150> <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjtj6Pi8ihy3fam85Khujh6a9_XMTxJj1g2xAkKFMYIwcZ8Vm2" height=200 width=150> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ROVAkdepao3CzA2aDNYftzE9f0MQrq6Yp54Kf-ZBG13i1bSw" height=200 width=150> 
 
 
-
+# My favorite artist is Taylor Swift!
+I am insanely in love with her songs < 3
+Scroll down to know my favorite song in each album! 
+*specifically my top 3 songs per album hahah*
 
