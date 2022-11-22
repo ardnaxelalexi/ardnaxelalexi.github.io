@@ -1,11 +1,16 @@
 ### Welcome to *ardnaxelalexi.github.io*
-**I love listening to Taylor Swift**
+**Learn more about me!!**
 
 I'm Rowy Alexandra Gregorio of 9 Lewis A
 
-## My top 5 Albums of Taylor Swift:
 
-![alt text](https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png)
-![alt text](https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png)
-![alt text](https://upload.wikimedia.org/wikipedia/en/9/9f/Midnights_-_Taylor_Swift.png)
-![alt text](https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png)
+## My Interests and hobbies in life
+
+My name is Rowy Alexandra A. Gregorio! 
+
+**My favorite Genres in Movies**
+
+1. Romance
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e8rHz7jOYvA16oozDlfsnoJ_xmU_dnQnnXLTAsRjqZ_fsIKY" height=400 width=300>   <img src="https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_.jpg" height=400 width=300>
+
