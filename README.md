@@ -27,4 +27,5 @@ I am insanely in love with her songs < 3
 Scroll down to know my favorite song in each album! 
 *specifically my top 3 songs per album hahah*
 ## Album 1: Taylor Swift (Debut) 
-<img src="https://www.udiscovermusic.com/wp-content/uploads/2018/09/Taylor-Swift-debut-album-cover-web-optimised-820.jpg" height=100 width=100> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5eyZZoQEFQWRHkV2xgAeBw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<img src="https://www.udiscovermusic.com/wp-content/uploads/2018/09/Taylor-Swift-debut-album-cover-web-optimised-820.jpg" height=100 width=100>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5eyZZoQEFQWRHkV2xgAeBw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
