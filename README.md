@@ -25,7 +25,6 @@ I am 14 years old, and insanely addicted to Movies, Series, and Songs!
 # My favorite artist is Taylor Swift!
 I am insanely in love with her songs < 3
 Scroll down to know my favorite song in each album! 
-*specifically my top 3 songs per album hahah*
 ## Album 1: Taylor Swift (Debut) 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5eyZZoQEFQWRHkV2xgAeBw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ### Favorite Song in Album: *Our Song* 
@@ -34,3 +33,11 @@ Scroll down to know my favorite song in each album!
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2gP2LMVcIFgVczSJqn340t?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ### Favorite Song in Album: *Fifteen* 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Ora3Ish2A1JN5veGYTxhw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Album 3: Speak Now
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6Ar2o9KCqcyYF9J0aQP3au?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Favorite Song in Album: *Better than Revenge* 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0PWgAyoxsjwGRuFSO0fyya?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Album 4: Red
+
+### Favorite Song in Album: *Better than Revenge* 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0PWgAyoxsjwGRuFSO0fyya?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
