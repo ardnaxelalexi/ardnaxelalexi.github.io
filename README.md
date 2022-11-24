@@ -40,4 +40,28 @@ Scroll down to know my favorite song in each album!
 ## Album 4: Red
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1KVKqWeRuXsJDLTW0VuD29?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ### Favorite Song in Album: *I knew you were trouble* 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0PWgAyoxsjwGRuFSO0fyya?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lKZf71jeNi14udIFPJ29V?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Album 5: 1989
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1yGbNOtRIgdIiGHOEBaZWf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Favorite Song in Album *Wonderland*
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6RvRzl1YJTDnUvdOtV21IK?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Album 6: Reputation
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6DEjYFkNZh67HP7R9PSZvv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Favorite Song in Album: *Getaway Car*
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VE4kBnHJUgtMf0dy6DRmW?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Album 7: Lover
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1NAmidJlEaVgA3MpcPFYGq?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Favorite Song in Album: *Afterglow*
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1SymEzIT3H8UZfibCs3TYi?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Album 8: Folklore
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1pzvBxYgT6OVwJLtHkrdQK?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Favorite Song in Album: *August*
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6nK2pIKFcRc5frrZKHgsiT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Album 9: Evermore
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2Xoteh7uEpea4TohMxjtaq?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Favorite Song in Album: *Willow* 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0lx2cLdOt3piJbcaXIV74f?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Album 10: Midnights
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3lS1y25WAhcqJDATJK70Mq?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Favorite Song in Album: *Midnight Rain*
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Nl7KyvjkFncGsjB49SxLl?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
